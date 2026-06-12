@@ -127,3 +127,5 @@ read quality filtering — find me here:
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 </div>
+
+> ⚠️ **Disclaimer on Nextflow workflows:** Some projects within `01_End_to_End_Projects/` are implemented as Nextflow workflows. These do not follow the official Nextflow documentation conventions, which recommend each workflow to live in its own dedicated repository. This is intentional  these projects are didactic in nature, designed to explore bioinformatics concepts and practice with tools, rather than to be published as standalone workflows. They are small in scope and exist purely for learning purposes.
